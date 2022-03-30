@@ -6,7 +6,7 @@
    (E-mail para contato: daniel.guimaraes.secundino@outlook.com)
 
 <div>
-  <a href="https://beacons.ai/rafaballerini">
+  <a href="https://beacons.ai/danielguimaraess">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielguimaraess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielguimaraess&layout=compact&langs_count=16&theme=dark"/>
 </div>
