@@ -1,6 +1,6 @@
 ### Olá, meu nome é Daniel!
 
-- 🔭 Hoje trabalho programção (front-end)
+- 🔭 Atualmente trabalho com programção (front-end)
 - 🌱 Estudo e desenvolvo projetos com tais linguagens: HTML, CSS e JAVASCRIPT. 
 
    (E-mail para contato: daniel.guimaraes.secundino@outlook.com)
